@@ -18,7 +18,7 @@ var stringToSplit = "numenticaui"
 var noOfCharPerElement =2
 
 
-if (stringSplit || noOfCharPerElement !== undefined){
+if (stringToSplit || noOfCharPerElement !== undefined){
     console.log(stringSplit(stringToSplit,noOfCharPerElement))
 }
 else{
