@@ -1,6 +1,6 @@
 function charRepeating(wordParam){
     
-    wordParam =wordParam.toLowerCase()
+    
     var wordParamLength = wordParam.length
     var maxCount = 0
     var currCount = 1
